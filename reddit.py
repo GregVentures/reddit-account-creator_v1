@@ -1,7 +1,6 @@
 import random
 import imaplib
 import email
-from bs4 import BeautifulSoup
 import time
 import threading
 from tkinter import *
